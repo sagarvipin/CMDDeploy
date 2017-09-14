@@ -1,1 +1,2 @@
-# CMDDeploy
+# CMD Deploy
+For Cli deploy
